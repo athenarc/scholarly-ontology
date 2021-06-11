@@ -1,4 +1,4 @@
-This repository contains material regarding Scholarly Ontology. An ontological framework for modeling scholarly processes. Fruther information can be found in the following references:
+This repository contains material regarding Scholarly Ontology, an ontological framework for modeling scholarly processes. Fruther information can be found in the following references:
 
 1) Scholarly Ontology: modelling scholarly practices. Pertsas, Constantopoulos. IJDL. 2016. DOI: 10.1007/s00799-016- 0169-3
 2) Contextualized Integration of Digital Humanities Research: Using the NeMO Ontology of Digital Humanities Methods. Constantopoulos, Hughes, Dallas, Pertsas, Papachristopoulos, Christodoulou. Digital Humanities (DH). Krakow. 2016
