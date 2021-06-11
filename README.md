@@ -1,3 +1,8 @@
+This repository contains material regarding Scholarly Ontology. An ontological framework for modeling scholarly processes. Fruther information can be found in the following references:
+
+1) Scholarly Ontology: modelling scholarly practices. Pertsas, Constantopoulos. IJDL. 2016. DOI: 10.1007/s00799-016- 0169-3
+2) Contextualized Integration of Digital Humanities Research: Using the NeMO Ontology of Digital Humanities Methods. Constantopoulos, Hughes, Dallas, Pertsas, Papachristopoulos, Christodoulou. Digital Humanities (DH). Krakow. 2016
+
 # Scholarly Ontology
 
 Scholarly Ontology (SO) is an ontological framework for representing knowledge in the scholarly domain. It offers a flexible mechanism for modeling scholarly practices in the form of research processes that are carried out by scholars and represent their work. Modeling scholarly work with SO, allows for easy access to information, encoded in such a way that can answer questions of the form who does what, how, why, where, etc.
