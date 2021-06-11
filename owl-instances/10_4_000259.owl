@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://dcu.gr/ontologies/so/instances/"
+   xmlns:ns2="http://dcu.gr/ontologies/so/"
+   xmlns:ns3="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#"
+   xmlns:ns4="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_29885_29885">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_29919_29919"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdfs:label>It was generally agreed upon</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns3:beginIndex>29885</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns3:endIndex>29885</ns3:endIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259">
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-hearst1995"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38859_38859"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-10"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-6"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-15"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_29919_29919"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-11"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_35978_35978"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25257_25257"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_29825_29825"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_22635_22635"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-9"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_22058_22058"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41116_41116"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-simon1988"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_2379_2379"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_38423_38423"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-decamp2005"/>
+    <ns2:title>Language DNA: Visualizing a Language Decomposition</ns2:title>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_41467_41467"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_40723_40723"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns2:hasURL>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_31784_31784"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_9460_9460"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_26320_26320"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-13"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_13400_13400"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-hetzler1998"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_19093_19093"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_40821_40821"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_26478_26478"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25386_25386"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24249_24249"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41439_41439"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_36674_36674"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_11138_11138"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25115_25115"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-8"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_13677_13677"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24303_24303"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37519_37519"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-5"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-2"/>
+    <ns2:volume>10</ns2:volume>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_29885_29885"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_4133_4133"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_36523_36523"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-7"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_1978_1978"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_30687_30687"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_14731_14731"/>
+    <ns1:hasTopicKeyword rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-Text_Visualization"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_25217_25217"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_12764_12764"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_11071_11071"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40800_40800"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_42076_42076"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_3782_3782"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25087_25087"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24856_24856"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-3"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25157_25157"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_34894_34894"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25198_25198"/>
+    <ns2:datePublished>2016-10-04</ns2:datePublished>
+    <ns2:source>Digital Humanities Quarterly</ns2:source>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41826_41826"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24604_24604"/>
+    <ns2:electronicArticleIdentifier>000259</ns2:electronicArticleIdentifier>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_21710_21710"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_12847_12847"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_39761_39761"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-rohrdantz2012"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37052_37052"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_3957_3957"/>
+    <ns2:issueIdentifier>4</ns2:issueIdentifier>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41418_41418"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_12566_12566"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_5176_5176"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24908_24908"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_26235_26235"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-4"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_18756_18756"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38264_38264"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-lee2010"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-12"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22109_22109"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25323_25323"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_42088_42088"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-viegas2009"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41518_41518"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_26552_26552"/>
+    <rdfs:label>Language DNA: Visualizing a Language Decomposition</rdfs:label>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-1"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_36067_36067"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/instances/JournalArticle"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_17445_17445"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_13265_13265"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22211_22211"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-14"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/text/xml"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_36294_36294"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40919_40919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_42076_42076">
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41826_41826"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns3:beginIndex>42076</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns2:employs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_42088_42088"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdfs:label>presented a qualitative study, which provided encouraging results that indicate the power of the type of representation provided by L-DNA, the benefit of the whitespace that it generates, and its possibilities to provide inspiration (even if reluctantly), as well as some useful criticisms that led to iterations in our design</rdfs:label>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>42076</ns3:endIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_25217_25217">
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Goal"/>
+    <ns3:beginIndex>25217</ns3:beginIndex>
+    <rdfs:label>to be able to further explain L-DNA</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:isObjectiveOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25198_25198"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:endIndex>25217</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25198_25198">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>25198</ns3:endIndex>
+    <ns2:hasObjective rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_25217_25217"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:beginIndex>25198</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25257_25257"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25157_25157"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdfs:label>showed them Fig. 8</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_14731_14731">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdfs:label>𝑓 is a bijection, since every word generates a unique base 27 representation (one-to-one: the property that if two words map to the same number, they must be the same word) and each number between 0 and 1 can be converted to base 27 to recover the sequence of letters (onto: the property that every number has a word that can map onto it)</rdfs:label>
+    <ns3:beginIndex>14731</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>14731</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-4">
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:description>The Oxford English Dictionary (OED2) in 2D L-DNA</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdfs:label>10_4_000259-Figure-4</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure04.png</ns2:hasURL>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_36067_36067">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>36067</ns3:beginIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>being able to investigate the space dynamically, and by defining other symbol systems to encode, the literary critic will be able to explore the types of meaning and associations being looked for by our participants</rdfs:label>
+    <ns3:endIndex>36067</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-hearst1995">
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:bibliographicTitle>TileBars: visualization of term distribution information in full text information access.</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Aggregation-Bibliografic_Reference_List"/>
+    <ns2:bibliographicAuthor>Hearst, Marti A.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_26552_26552">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>formulated our discussion around the free-form questions</rdfs:label>
+    <ns3:endIndex>26552</ns3:endIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:beginIndex>26552</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_9460_9460">
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>9460</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdfs:label>The development of our technique was motivated by the fact that existing visualizations and text analysis tools, while usually aesthetic pleasing, cannot easily be used for the types of analyses expected or desirable for literary criticism or linguistics</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns3:endIndex>9460</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25087_25087">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25115_25115"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>25087</ns3:endIndex>
+    <rdfs:label>took time to make sure they</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns3:beginIndex>25087</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24908_24908"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_18756_18756">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>18756</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>L-DNA</rdfs:label>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <ns3:endIndex>18756</ns3:endIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_42088_42088">
+    <rdfs:label>qualitative study</rdfs:label>
+    <ns3:endIndex>42088</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>42088</ns3:beginIndex>
+    <ns2:isEmployedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_42076_42076"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_29825_29825">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdfs:label>more complex mappings will produce more complex analogues</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:beginIndex>29825</ns3:beginIndex>
+    <ns3:endIndex>29825</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-8">
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure08.png</ns2:hasURL>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns2:description>Close up of the subsection AL from Fig. 7</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdfs:label>10_4_000259-Figure-8</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_36523_36523">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>36523</ns3:beginIndex>
+    <rdfs:label>this space can be used for the types of comparisons that we are interested in, namely those that lead to interpretive possibilities</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:endIndex>36523</ns3:endIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_41467_41467">
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>41467</ns3:beginIndex>
+    <ns2:isEmployedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41439_41439"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdfs:label>qualitative study</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:endIndex>41467</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_2379_2379"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25386_25386"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41518_41518"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22211_22211"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24303_24303"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_5176_5176"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24249_24249"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25257_25257"/>
+    <ns1:orcid>0000-0002-5127-9780</ns1:orcid>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_29885_29885"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_12566_12566"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25157_25157"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25115_25115"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_26552_26552"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25087_25087"/>
+    <ns1:hasAffiliation rdf:resource="http://dcu.gr/ontologies/so/instances/Organization-University_of_Calgary"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24908_24908"/>
+    <ns1:mbox>sheelagh@ucalgary.ca</ns1:mbox>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25323_25323"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41826_41826"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_25217_25217"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40919_40919"/>
+    <ns1:firstName>Sheelagh</ns1:firstName>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38264_38264"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_13265_13265"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37052_37052"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Group"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38859_38859"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41418_41418"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40800_40800"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Person"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24856_24856"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-Text_Visualization"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22109_22109"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_42076_42076"/>
+    <ns1:lastName>Carpendale</ns1:lastName>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_40723_40723"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25198_25198"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37519_37519"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_22058_22058"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Actor"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_21710_21710"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_9460_9460"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41439_41439"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41116_41116"/>
+    <ns1:hasBio>Sheelagh Carpendale is a Professor in the Department of Computer Science at the University of Calgary where she holds a Canada Research Chair in Information Visualization and NSERC/AITF/SMART Technologies Industrial Research Chair in Interactive Technologies. Her research on information visualization, large interactive displays, and new media draws on her background in Computer Science, Art and Design.</ns1:hasBio>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24604_24604"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37519_37519">
+    <ns3:beginIndex>37519</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdfs:label>produced a density and inverted density map to highlight the white spaces, shown in Fig</rdfs:label>
+    <ns3:endIndex>37519</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_22058_22058">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:beginIndex>22058</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns3:endIndex>22058</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:hasObjective rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22211_22211"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>chose the next example</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:hasObjective rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22109_22109"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25157_25157">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25198_25198"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25115_25115"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdfs:label>asked about their understanding</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>25157</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:endIndex>25157</ns3:endIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_29919_29919">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>it was the relation of the empty space to the marked space that created meaning and inspired insight into what the visualizations were showing and what they could show</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:endIndex>29919</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_29885_29885"/>
+    <ns3:beginIndex>29919</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38264_38264">
+    <rdfs:label>discussed how the blank spaces are compelling and how the absence of words in these spaces generally seems to intrigue people</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>38264</ns3:beginIndex>
+    <ns3:endIndex>38264</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_22635_22635">
+    <rdfs:label>a portion of the phonemes are used primarily for the first syllable and another distinct set is used primarily for the second syllable</rdfs:label>
+    <ns3:endIndex>22635</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:beginIndex>22635</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_26320_26320">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:beginIndex>26320</ns3:beginIndex>
+    <rdfs:label>this white space was completely necessary</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:endIndex>26320</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_2379_2379">
+    <ns3:beginIndex>2379</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdfs:label>studied our visualization with expert participants from many fields including English studies, Information Visualization, Human-Computer Interaction, and Computer Graphics</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:endIndex>2379</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25386_25386">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdfs:label>Five questions were asked on a 5-point scale, with an opportunity to provide free form answers</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25323_25323"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>25386</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns3:endIndex>25386</ns3:endIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278">
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38859_38859"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24856_24856"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25257_25257"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40919_40919"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_12566_12566"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25157_25157"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_40723_40723"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_26552_26552"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24303_24303"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25323_25323"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_5176_5176"/>
+    <ns1:firstName>Mark</ns1:firstName>
+    <ns1:orcid>0000-0001-6437-7278</ns1:orcid>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25198_25198"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_2379_2379"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25115_25115"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_9460_9460"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41439_41439"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22211_22211"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25386_25386"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_22058_22058"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Person"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24249_24249"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22109_22109"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_25217_25217"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Group"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_29885_29885"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41418_41418"/>
+    <ns1:lastName>Hancock</ns1:lastName>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24604_24604"/>
+    <ns1:hasAffiliation rdf:resource="http://dcu.gr/ontologies/so/instances/Organization-University_of_Waterloo"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_21710_21710"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_13265_13265"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37519_37519"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-Text_Visualization"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41116_41116"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41826_41826"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41518_41518"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40800_40800"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_42076_42076"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Actor"/>
+    <ns1:mbox>mark.hancock@uwaterloo.ca</ns1:mbox>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24908_24908"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37052_37052"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25087_25087"/>
+    <ns1:hasBio>Mark Hancock is an Associate Professor of Management Sciences in the Faculty of Engineering at the University of Waterloo and Associate Director of the Games Institute. His research is in the field of Human-Computer Interaction and includes the design and development of interfaces and interaction techniques for digital surfaces. His research also focuses on the science of games and interaction?using concepts from game design, such as engagement, immersion, and enjoyment, to inform the design of more motivating and compelling novel interfaces.</ns1:hasBio>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38264_38264"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_35978_35978">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>35978</ns3:beginIndex>
+    <ns3:endIndex>35978</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdfs:label>the objections to the arbitrariness of the design will be addressed</rdfs:label>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-6">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure06.png</ns2:hasURL>
+    <ns2:description>2D L-DNA of English (blue), French (red), German (amber), Spanish (aqua)</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdfs:label>10_4_000259-Figure-6</rdfs:label>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37052_37052">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns3:beginIndex>37052</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:endIndex>37052</ns3:endIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdfs:label>confirmed the idea that this technique has the potential to answer these much more complex questions as they relate to the domain in question</rdfs:label>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_31784_31784">
+    <ns3:beginIndex>31784</ns3:beginIndex>
+    <rdfs:label>potentially symbolically the gaps can sort of be a formative quality of language and words will start to fill in those gaps</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>31784</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_11138_11138">
+    <rdfs:label>we were to approach the problem of metaphor</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:endIndex>11138</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:beginIndex>11138</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479">
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_25217_25217"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22211_22211"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25115_25115"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41439_41439"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_12566_12566"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_29885_29885"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24604_24604"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_13265_13265"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41116_41116"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_22058_22058"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40800_40800"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_21710_21710"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_2379_2379"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24303_24303"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37052_37052"/>
+    <ns1:orcid>0000-0002-4083-8479</ns1:orcid>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_42076_42076"/>
+    <ns1:mbox>adam.bradley@uwaterloo.ca</ns1:mbox>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24856_24856"/>
+    <ns1:hasAffiliation rdf:resource="http://dcu.gr/ontologies/so/instances/Organization-University_of_Waterloo"/>
+    <ns1:hasBio>Adam Bradley is a PhD candidate in both the department of English Language and Literature and Systems Design Engineering. He is interested in the intersections between technology and traditional literary studies with a focus on early 20th century poetics. His current work focuses on digital tool design for literary criticism and investigations into how philology can still function within a technological context.</ns1:hasBio>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40919_40919"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41826_41826"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_40723_40723"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Group"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Actor"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38264_38264"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-Text_Visualization"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25087_25087"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41518_41518"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38859_38859"/>
+    <ns1:lastName>Bradley</ns1:lastName>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25323_25323"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25257_25257"/>
+    <ns1:firstName>Adam James</ns1:firstName>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25157_25157"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Person"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37519_37519"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_26552_26552"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_9460_9460"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25386_25386"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25198_25198"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_5176_5176"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24249_24249"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41418_41418"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24908_24908"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22109_22109"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25257_25257">
+    <rdfs:label>asked questions based on the participants’ understanding</rdfs:label>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25198_25198"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>25257</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:beginIndex>25257</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25323_25323"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_13400_13400">
+    <rdfs:label>we can map the data many different ways</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>13400</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:endIndex>13400</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_40723_40723">
+    <ns3:endIndex>40723</ns3:endIndex>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Goal"/>
+    <ns3:beginIndex>40723</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns2:isObjectiveOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40800_40800"/>
+    <rdfs:label>to integrate interactive elements into our visualization,</rdfs:label>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_34894_34894">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:beginIndex>34894</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:endIndex>34894</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>the encoding we used was arbitrary, and its meaning was not immediately clear:</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_26478_26478">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>26478</ns3:endIndex>
+    <ns3:beginIndex>26478</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>the visualization triggered new ideas for research (5 out of 5)</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24856_24856">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24604_24604"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>asked what they thought the image might be</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24908_24908"/>
+    <ns3:endIndex>24856</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>24856</ns3:beginIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_1978_1978">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>this mapping is one-to-one and onto</rdfs:label>
+    <ns3:endIndex>1978</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>1978</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24249_24249">
+    <ns3:endIndex>24249</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24303_24303"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>24249</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdfs:label>sought participants from a variety of disciplines</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-decamp2005">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:bibliographicTitle>Gist icons: Seeing meaning in large bodies of literature</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:bibliographicAuthor>DeCamp, P., Frid-Jimenez, A., Guiness, J., &amp; Roy, D.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Aggregation-Bibliografic_Reference_List"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25115_25115">
+    <ns3:endIndex>25115</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25157_25157"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25087_25087"/>
+    <ns3:beginIndex>25115</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdfs:label>were comfortable with the explanation</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40800_40800">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>40800</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:endIndex>40800</ns3:endIndex>
+    <rdfs:label>planned prior to our qualitative study, and some of which were inspired by our results</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns2:employs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_40821_40821"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40919_40919"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns2:hasObjective rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_40723_40723"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22109_22109">
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>to demonstrate the robustness of the technique to arbitrary symbolic representations of language</rdfs:label>
+    <ns2:isObjectiveOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_22058_22058"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Goal"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns3:beginIndex>22109</ns3:beginIndex>
+    <ns3:endIndex>22109</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_13265_13265">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_3782_3782"/>
+    <ns3:endIndex>13265</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdfs:label>chosen this technique as a first demonstration because we are all familiar with the way we order a dictionary</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:beginIndex>13265</ns3:beginIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41518_41518">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdfs:label>developed a mapping of symbol systems to visual space, which we have demonstrated using language</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41439_41439"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns3:endIndex>41518</ns3:endIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:beginIndex>41518</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_39761_39761">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:beginIndex>39761</ns3:beginIndex>
+    <ns3:endIndex>39761</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>for ease and speed, we can give up many letters — chiefly the vowels — in words and still retain meaning</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_38423_38423">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:endIndex>38423</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdfs:label>this space is and has been filled in many interesting ways</rdfs:label>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:beginIndex>38423</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22211_22211">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>22211</ns3:beginIndex>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns2:isObjectiveOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_22058_22058"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Goal"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdfs:label>to create an analogue between the spellings of words and the sounds of words</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:endIndex>22211</ns3:endIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_4133_4133">
+    <ns3:beginIndex>4133</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:endIndex>4133</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdfs:label>this approach is to be considered an augmentation to existing practices</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-9">
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure09.png</ns2:hasURL>
+    <ns2:description>English Phonemes showing the Phoneme map of 370,624 words used from the OED2 in 2D mapped by sound types (i.e. fricatives, stops, etc.)</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <rdfs:label>10_4_000259-Figure-9</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38859_38859">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>38859</ns3:beginIndex>
+    <rdfs:label>plotted ygUDuh overlaid on the OED grid</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>38859</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-2">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:description>All words in the English language visualized along a number line from 0 to 1, and the specific word dog (represented as a vertical line in red) would appear 16.9% of the way in.</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure02.png</ns2:hasURL>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdfs:label>10_4_000259-Figure-2</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-3">
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure03.png</ns2:hasURL>
+    <rdfs:label>10_4_000259-Figure-3</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:description>The entire English language can also be visualized in 2D (top-left). The result is what appears as a grid of letter pairs, so that one can zoom into words that begin with AP (top-right), and within that square, words that begin with APPL (bottom).</ns2:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-11">
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure11.png</ns2:hasURL>
+    <ns2:description>The text of John Donne's "O my black soul" sonnet visualized with English Phonemes.</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <rdfs:label>10_4_000259-Figure-11</rdfs:label>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-15">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>10_4_000259-Figure-15</rdfs:label>
+    <ns2:description>MSN ‘words’ overlaid on the OED visualization</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure15.png</ns2:hasURL>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Person"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40919_40919"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-Text_Visualization"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_22058_22058"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25323_25323"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25386_25386"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25087_25087"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_26552_26552"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25115_25115"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25157_25157"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_12566_12566"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_29885_29885"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38859_38859"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24303_24303"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_25217_25217"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22211_22211"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_5176_5176"/>
+    <ns1:hasAffiliation rdf:resource="http://dcu.gr/ontologies/so/instances/Organization-University_of_Calgary"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_2379_2379"/>
+    <ns1:orcid>None</ns1:orcid>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41418_41418"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24604_24604"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41826_41826"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41116_41116"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25257_25257"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41439_41439"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_9460_9460"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_21710_21710"/>
+    <ns1:firstName>Travis</ns1:firstName>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_22109_22109"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37519_37519"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25198_25198"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Goal#offset_40723_40723"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_42076_42076"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24249_24249"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24908_24908"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24856_24856"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40800_40800"/>
+    <ns1:hasBio>Currently director of the interaction design lab Logic&amp;Form, Travis is a creative engineer, designer and researcher. He holds an MA of Interface Culture and a BSc of Interactive Arts, with a specialization in Interaction Design.</ns1:hasBio>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Actor"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41518_41518"/>
+    <ns1:lastName>Kirton</ns1:lastName>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_37052_37052"/>
+    <ns1:mbox>tkirton@gmail.com</ns1:mbox>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Group"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_13265_13265"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_38264_38264"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40919_40919">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40800_40800"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>40919</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>created a version of L-DNA which incorporates a brushing technique that presents the words beneath the cursor, both when dragging across words and when dragging across the whitespace</rdfs:label>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41116_41116"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:endIndex>40919</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24908_24908">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns3:beginIndex>24908</ns3:beginIndex>
+    <rdfs:label>showed participants Fig. 7, four languages plotted in the same space</rdfs:label>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25087_25087"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:endIndex>24908</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24856_24856"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_12764_12764">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:beginIndex>12764</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:endIndex>12764</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdfs:label>the words be recoverable from the visual space</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-5">
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>10_4_000259-Figure-5</rdfs:label>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:description>Four languages in 1D stacked.</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure05.png</ns2:hasURL>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_11071_11071">
+    <rdfs:label>the algorithm uses a plotting space that is infinite</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>11071</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:endIndex>11071</ns3:endIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_12566_12566">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>12566</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns3:beginIndex>12566</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>designed our Language DNA visualization with the three characteristics of consistency and reversibility, infinite plotting space, and layering in mind</rdfs:label>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-13">
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure13.png</ns2:hasURL>
+    <ns2:description>Inverted density map of the English language in L-DNA.</ns2:description>
+    <rdfs:label>10_4_000259-Figure-13</rdfs:label>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_12847_12847">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdfs:label>the mapping be a bijection (i.e., that words both map to a unique place in the visual space, and that each point in the visual space maps back to a word)</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>12847</ns3:endIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:beginIndex>12847</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-hetzler1998">
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:bibliographicAuthor>Hetzler, Beth, et al.</ns2:bibliographicAuthor>
+    <ns2:bibliographicTitle>Multi-faceted insight through interoperable visual information analysis paradigms.</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-1">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure01.png</ns2:hasURL>
+    <ns2:description>The English language in 1D along the top row. Showing zoom levels to find the word applesauce</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdfs:label>10_4_000259-Figure-1</rdfs:label>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_13677_13677">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:endIndex>13677</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>13677</ns3:beginIndex>
+    <rdfs:label>this mapping is currently written using base 10 numbers for the integers (1 to 26, with an implied 0 for no character), but our mapping requires a base 27 representation (or more generally base N+1, where N is the number of characters in the language), which for convenience we will symbolically represent as follows:</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41439_41439">
+    <ns2:employs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_41467_41467"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41418_41418"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns3:beginIndex>41439</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>41439</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>presented the findings of a qualitative study of its design</rdfs:label>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41518_41518"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Topic-Text_Visualization">
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Topic"/>
+    <ns1:isTopicKeywordOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-viegas2009">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:bibliographicAuthor>Viegas, Fernanda B., Martin Wattenberg, and Jonathan Feinberg.</ns2:bibliographicAuthor>
+    <ns2:bibliographicTitle>Participatory visualization with wordle</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24604_24604">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns3:endIndex>24604</ns3:endIndex>
+    <ns3:beginIndex>24604</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24856_24856"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdfs:label>was first shown L-DNA visualizations that we had intentionally left void of any legends or axis labels, so that we could ask questions about their initial</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_40821_40821">
+    <ns3:beginIndex>40821</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:endIndex>40821</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdfs:label>qualitative study</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns2:isEmployedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40800_40800"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24303_24303">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdfs:label>had 14 participants which included 1 visual artist, 3 literary critics, 1 rhetorician, 2 digital media critics, 1 database programmer, 1 business analyst, 1 linguist, 2 interaction designers, 1 graphic designer, and 1 marketing specialist</rdfs:label>
+    <ns3:beginIndex>24303</ns3:beginIndex>
+    <ns3:endIndex>24303</ns3:endIndex>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_24249_24249"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_30687_30687">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>30687</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:endIndex>30687</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdfs:label>there’s combinations of letters that don’t turn into words... you don’t have words that start with trsz is that why there would be space...</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41826_41826">
+    <ns3:endIndex>41826</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_42076_42076"/>
+    <ns3:beginIndex>41826</ns3:beginIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdfs:label>mathematized language to make exploring and experimenting with language easier, but the results of said experiments need to have the possibility of being reversed out of the space to be able to assign meaning once again to the language</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-10">
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure10.png</ns2:hasURL>
+    <ns2:description>The text of John Donne's "O my black soul" sonnet visualized with the OED.</ns2:description>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>10_4_000259-Figure-10</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/nemo/instances/Method-DBpedia-Qualitative_research">
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_36294_36294"/>
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_40821_40821"/>
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_41467_41467"/>
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_42088_42088"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_26235_26235">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>26235</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>26235</ns3:endIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdfs:label>the white space carried meaning to them (5 out of 5) and 6 participants thought that this white space was completely necessary</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-lee2010">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:bibliographicTitle>Sparkclouds: Visualizing trends in tag clouds</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Aggregation-Bibliografic_Reference_List"/>
+    <ns2:bibliographicAuthor>Lee, Bongshin, et al.</ns2:bibliographicAuthor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-simon1988">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:bibliographicTitle>The science of design: creating the artificial.</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:bibliographicAuthor>Simon, Herbert A.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Aggregation-Bibliografic_Reference_List"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_3782_3782">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>3782</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_13265_13265"/>
+    <rdfs:label>structural aspects of the poem that may be difficult to recognize when obfuscated by the meaning of the words themselves may be easier to analyze and observe</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>3782</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Aggregation-Bibliografic_Reference_List">
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-lee2010"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-hearst1995"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-rohrdantz2012"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-simon1988"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-decamp2005"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-viegas2009"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-hetzler1998"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-12">
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:description>Density map of the English language in L-DNA.</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure12.png</ns2:hasURL>
+    <rdfs:label>10_4_000259-Figure-12</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_19093_19093">
+    <rdfs:label>the algorithm works for any symbol system or combination of symbols systems</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>19093</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:endIndex>19093</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_3957_3957">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>3957</ns3:endIndex>
+    <ns3:beginIndex>3957</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>this understanding will likely not be valuable unless a connection can be bridged between the alternate representation and the original piece of literature</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_36674_36674">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:endIndex>36674</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:beginIndex>36674</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>we have presented a simplified form, but the technique itself allows for infinite complexity</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_21710_21710">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:beginIndex>21710</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdfs:label>The above images were generated with the constraint that we only had access to open source dictionaries for languages other than English (for which we have university-wide access to the OED)</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns3:endIndex>21710</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41418_41418">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdfs:label>introduced L-DNA</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>41418</ns3:beginIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:endIndex>41418</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41439_41439"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_5176_5176">
+    <rdfs:label>named Language DNA (L-DNA) that visually encodes any symbol system, in our case the letters and phonemes of words in the English language, and a qualitative evaluation with several literary critics and designers to investigate the need and use of such a visualization</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>5176</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns3:endIndex>5176</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_41116_41116">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_40919_40919"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdfs:label>created a version of the density map (Section 9.1) that allows zooming into the recursive letter pairs</rdfs:label>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>41116</ns3:endIndex>
+    <ns3:beginIndex>41116</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25323_25323">
+    <ns3:endIndex>25323</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25386_25386"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Activity#offset_25257_25257"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>asked participants to complete a post-interview questionnaire</rdfs:label>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns3:beginIndex>25323</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Organization-University_of_Calgary">
+    <ns1:isAffiliationOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-tkirton@gmail.com"/>
+    <ns1:isAffiliationOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-5127-9780"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-7">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:description>Overlaying the dictionaries of the 4 languages (English, French, German and Spanish) in 2D L-DNA.</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure07.png</ns2:hasURL>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <rdfs:label>10_4_000259-Figure-7</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Method#offset_36294_36294">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>36294</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <ns3:endIndex>36294</ns3:endIndex>
+    <rdfs:label>qualitative study</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Figure-14">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:description>ygUDuh overlaid on the OED grid.</ns2:description>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <rdfs:label>10_4_000259-Figure-14</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/10/4/000259/resources/images/figure14.png</ns2:hasURL>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Organization-University_of_Waterloo">
+    <ns1:isAffiliationOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0001-6437-7278"/>
+    <ns1:isAffiliationOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-4083-8479"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-10_4_000259/Proposition#offset_17445_17445">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>17445</ns3:beginIndex>
+    <rdfs:label>the difference between the largest and smallest words is approximately 1.0</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/10/4/000259/000259.xml</ns3:referenceContext>
+    <ns3:endIndex>17445</ns3:endIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-BiblRef-rohrdantz2012">
+    <ns2:bibliographicAuthor>Rohrdantz, C., Niekler, A., Hautil, A., Butt, M., Keim, D.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259-Aggregation-Bibliografic_Reference_List"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-10_4_000259"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:bibliographicTitle>Lexical semantics and distribution of suffixes: a visual analysis</ns2:bibliographicTitle>
+  </rdf:Description>
+</rdf:RDF>

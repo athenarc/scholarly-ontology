@@ -1,0 +1,1943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://dcu.gr/ontologies/so/instances/"
+   xmlns:ns2="http://dcu.gr/ontologies/so/"
+   xmlns:ns3="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#"
+   xmlns:ns4="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28528_28528">
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:endIndex>28528</ns3:endIndex>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28179_28179"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:beginIndex>28528</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdfs:label>provided empirical knowledge for understanding the Japanese language, and communication styles</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208">
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_8162_8162"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_29505_29505"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10790_10790"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-_computational_stylistics_"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5309_5309"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10679_10679"/>
+    <ns1:mbox>takafumi_s@toyo.jp</ns1:mbox>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5971_5971"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9354_9354"/>
+    <ns1:lastName>Suzuki</ns1:lastName>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-Japanese_studies"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-text_analysis"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10531_10531"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28528_28528"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7616_7616"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_11286_11286"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10335_10335"/>
+    <ns1:hasBio>Takafumi Suzuki earned a BA in Literature, and an MA and a Ph.D in Interdisciplinary Information Studies from University of Tokyo. He is currently an associate professor at Department of Media and Communications, Faculty of Sociology, Toyo University.</ns1:hasBio>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_9331_9331"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_27679_27679"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6581_6581"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7915_7915"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-female_singer-songwriters"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15848_15848"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_17844_17844"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_23245_23245"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9774_9774"/>
+    <ns1:hasAffiliation rdf:resource="http://dcu.gr/ontologies/so/instances/Organization-Toyo_University"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5764_5764"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_16939_16939"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28179_28179"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7958_7958"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Actor"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28944_28944"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-lyrics"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9612_9612"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5556_5556"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9881_9881"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-statistical_methods"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6341_6341"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Group"/>
+    <ns1:orcid>0000-0002-3425-8208</ns1:orcid>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Person"/>
+    <ns1:firstName>Takafumi</ns1:firstName>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10603_10603"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_5372_5372"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6148_6148"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6088_6088"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15516_15516"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7160_7160"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7673_7673"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_752_752"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170">
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_8743_8743"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7055_7055"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10603_10603"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10531_10531"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns2:hasURL>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_18245_18245"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_18968_18968"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7673_7673"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_11286_11286"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_1064_1064"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-potthast2010"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_11414_11414"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7624_7624"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_28663_28663"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15516_15516"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_752_752"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9881_9881"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6088_6088"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5556_5556"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-kikuchi2008"/>
+    <ns1:hasTopicKeyword rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-_computational_stylistics_"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_21118_21118"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Figure-2"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-ito2001"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28944_28944"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5764_5764"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10679_10679"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_10004_10004"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_22312_22312"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15848_15848"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_16939_16939"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_13996_13996"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_14392_14392"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_27965_27965"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10335_10335"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_13102_13102"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7616_7616"/>
+    <ns2:issueIdentifier>1</ns2:issueIdentifier>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_11580_11580"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5971_5971"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_27291_27291"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_29505_29505"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-bishop2006"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5309_5309"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_28479_28479"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_28434_28434"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_19571_19571"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_27679_27679"/>
+    <ns1:hasTopicKeyword rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-female_singer-songwriters"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-hosoya2010"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_8310_8310"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_5395_5395"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_5979_5979"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7958_7958"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6341_6341"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-argamon2007"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-jin2007a"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/text/xml"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-suzuki2009"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_17844_17844"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_1993_1993"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28179_28179"/>
+    <ns2:title>Computational Stylistic Analysis of Popular Songs of Japanese Female Singer-songwriters</ns2:title>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_15396_15396"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_27347_27347"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_5372_5372"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_15278_15278"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7377_7377"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_25195_25195"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_27598_27598"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-mita1975"/>
+    <ns1:hasTopicKeyword rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-statistical_methods"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_13951_13951"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_17101_17101"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9354_9354"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_13250_13250"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_12709_12709"/>
+    <ns2:electronicArticleIdentifier>000170</ns2:electronicArticleIdentifier>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_29417_29417"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7160_7160"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_6446_6446"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-breiman2001"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-oricon1980"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/instances/JournalArticle"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_9981_9981"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7345_7345"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9612_9612"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_29306_29306"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_20211_20211"/>
+    <ns1:hasTopicKeyword rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-lyrics"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10790_10790"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_13557_13557"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_6975_6975"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9774_9774"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_16217_16217"/>
+    <ns2:volume>008</ns2:volume>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7915_7915"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_15240_15240"/>
+    <ns2:datePublished>2014-04-01</ns2:datePublished>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_26717_26717"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28528_28528"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-suzuki2012"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_17603_17603"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_15744_15744"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_17989_17989"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_13748_13748"/>
+    <rdfs:label>Computational Stylistic Analysis of Popular Songs of Japanese Female Singer-songwriters</rdfs:label>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_8162_8162"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_939_939"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_19389_19389"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_19174_19174"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-confidence1970"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6148_6148"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Figure-1"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_13530_13530"/>
+    <ns1:hasTopicKeyword rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-text_analysis"/>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_14430_14430"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-breimannd"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-ugaya2005"/>
+    <ns1:hasTopicKeyword rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-Japanese_studies"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-jin2007b"/>
+    <ns2:source>Digital Humanities Quarterly</ns2:source>
+    <ns1:mentions rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_9331_9331"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-stamatatos2009"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6581_6581"/>
+    <ns1:providesDocumentationFor rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_23245_23245"/>
+    <ns2:contains rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-breiman1996"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-ito2001">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <ns2:bibliographicTitle>The judgement standard for distinguishing loan words of western origin from western words in Japanese pop songs.</ns2:bibliographicTitle>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:bibliographicAuthor>Ito Masamitsu.</ns2:bibliographicAuthor>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7624_7624">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:isEmployedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7616_7616"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdfs:label>random forests</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>7624</ns3:beginIndex>
+    <ns3:endIndex>7624</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_5395_5395">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>5395</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>case study</rdfs:label>
+    <ns3:beginIndex>5395</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_18968_18968">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>18968</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>18968</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdfs:label>she had a special lyrical characteristic on the basis of the function words rather than the content words</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_13996_13996">
+    <ns3:endIndex>13996</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdfs:label>the first principal component includes the factor of loanwords because Utada and YUI's songs have many of such words, and the third principal component includes the factor of pronouns, because aiko's songs have many special first person pronouns</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>13996</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_27347_27347">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:beginIndex>27347</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>they are sensitive to the fact that their lyrics will also be seen</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>27347</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_6975_6975">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:beginIndex>6975</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:endIndex>6975</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>several factors affect the textual characteristics, we first applied the kernel PCA to the matrix in order to examine the factors affecting the lyrical characteristics of the songs.</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10603_10603">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdfs:label>that number was the raw importance score for variable [root j]</rdfs:label>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10531_10531"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:beginIndex>10603</ns3:beginIndex>
+    <ns3:endIndex>10603</ns3:endIndex>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10679_10679"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6088_6088">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>6088</ns3:endIndex>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5971_5971"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6148_6148"/>
+    <ns3:beginIndex>6088</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdfs:label>calculated the relative frequencies for each text file,</rdfs:label>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_29306_29306">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdfs:label>the variety of styles is an important characteristic of current singer-songwriters</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28944_28944"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:beginIndex>29306</ns3:beginIndex>
+    <ns3:endIndex>29306</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_13530_13530">
+    <ns3:beginIndex>13530</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdfs:label>PCA</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:endIndex>13530</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_23245_23245">
+    <rdfs:label>analyzed the characteristics of individual singer-songwriters</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:beginIndex>23245</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:endIndex>23245</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7055_7055">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>7055</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>7055</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>PCA</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_29417_29417">
+    <ns3:endIndex>29417</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:beginIndex>29417</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdfs:label>they emphasize linguistic and stylistic factors, including word play</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28944_28944"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_11286_11286">
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_11414_11414"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:beginIndex>11286</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdfs:label>The debut years and debut ages were taken from the official websites of the respective singer-songwriters</rdfs:label>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_11580_11580"/>
+    <ns3:endIndex>11286</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_15240_15240">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns3:endIndex>15240</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdfs:label>random forests</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:beginIndex>15240</ns3:beginIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28944_28944">
+    <rdfs:label>found many content-independent characteristics, such as the selection of kanji and kana, in singer-songwriters after the 2000s</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_29306_29306"/>
+    <ns3:beginIndex>28944</ns3:beginIndex>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_29417_29417"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns3:endIndex>28944</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_29505_29505"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9612_9612">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9774_9774"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:beginIndex>9612</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>9612</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdfs:label>These sampling, extraction, and tree-constructing processes were repeated 1000 times, and we constructed a new classifier by a majority vote of the set of trees</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/nemo/instances/Method-DBpedia-Case_study">
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_5395_5395"/>
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_1064_1064"/>
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_28479_28479"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_29505_29505">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>29505</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:endIndex>29505</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28944_28944"/>
+    <rdfs:label>took the theoretical premise that lyrics are important for understanding modern society and submitted it to empirical analysis</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_26717_26717">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>26717</ns3:beginIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:endIndex>26717</ns3:endIndex>
+    <rdfs:label>in the dynamic era of Japanese and its communication styles, singer-songwriters must be sensitive in their overall approach to writing lyrics,</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Figure-1">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>8_1_000170-Figure-1</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <ns2:description>Three-dimensional scatter plots of the first three principal components by kernel PCA. The labels represent the names of the singer-songwriters.</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/8/1/000170/resources/images/figure01.png</ns2:hasURL>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_13557_13557">
+    <ns3:endIndex>13557</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>13557</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>the songs by the same singer are grouped, for example, aiko's songs are grouped in the upper side, Utada and YUI's songs toward the right, and Nakajima's songs toward the left</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp">
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10531_10531"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-_computational_stylistics_"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6581_6581"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7673_7673"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_5372_5372"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9774_9774"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_23245_23245"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7616_7616"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10790_10790"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28528_28528"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9354_9354"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5556_5556"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10335_10335"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_8162_8162"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5971_5971"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-text_analysis"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-statistical_methods"/>
+    <ns1:hasBio>Mai Hosoya earned a BA in Sociology from Toyo University. She is currently working in the public sector.</ns1:hasBio>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_27679_27679"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5309_5309"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7958_7958"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-lyrics"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_29505_29505"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6341_6341"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_752_752"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6088_6088"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_17844_17844"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-Japanese_studies"/>
+    <ns1:hasAffiliation rdf:resource="http://dcu.gr/ontologies/so/instances/Organization-Toyo_University"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15516_15516"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6148_6148"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Actor"/>
+    <ns1:isInterestedIn rdf:resource="http://dcu.gr/ontologies/so/instances/Topic-female_singer-songwriters"/>
+    <ns1:mbox>mihosoya@jcom.home.ne.jp</ns1:mbox>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7160_7160"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9612_9612"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9881_9881"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_11286_11286"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Group"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10679_10679"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Person"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7915_7915"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28179_28179"/>
+    <ns1:orcid>None</ns1:orcid>
+    <ns1:firstName>Mai</ns1:firstName>
+    <ns1:lastName>Hosoya</ns1:lastName>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_16939_16939"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15848_15848"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5764_5764"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28944_28944"/>
+    <ns1:participatesIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10603_10603"/>
+    <ns1:hasGoal rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_9331_9331"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10790_10790">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:beginIndex>10790</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10679_10679"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdfs:label>was VIacu for variable m ;</rdfs:label>
+    <ns3:endIndex>10790</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_13102_13102">
+    <rdfs:label>Utada and Nakajima have a large number of songs, whereas Hirose, Takeuchi and Shina have a small number of songs in our dataset</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>13102</ns3:endIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:beginIndex>13102</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_18245_18245">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_17844_17844"/>
+    <ns3:endIndex>18245</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>the word love ranked top because there are many phrases that contain love applied to sections where the lyrics are repeated, such as Fall in Love ロマンスの神様 この人でしょうか(Fall in Love romansu no kamisama konohito de shou ka?; fall in love,</rdfs:label>
+    <ns3:beginIndex>18245</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5764_5764">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5971_5971"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>collected the text data from Uta Net (http://www.uta-net.com) and Uta Map (http://www.utamap.com), which are databases of Japanese popular songs, and excluded the titles, spaces, and explanatory phrases</rdfs:label>
+    <ns3:beginIndex>5764</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:endIndex>5764</ns3:endIndex>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5556_5556"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-jin2007a">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:bibliographicAuthor>Jin Mingzhe.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <ns2:bibliographicTitle>R ni yoru Deta Saiensu.</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10335_10335">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>10335</ns3:beginIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:endIndex>10335</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10531_10531"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdfs:label>subtracted the number of votes for the correct class in the variable-[root j]-permuted out-of-bag data from the number of votes for the correct class in the original untouched out-of-bag data</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_17989_17989">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:beginIndex>17989</ns3:beginIndex>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_17844_17844"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdfs:label>this lyrical characteristic of her songs led to high error rates shown in Table 2</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns3:endIndex>17989</ns3:endIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9881_9881">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns3:beginIndex>9881</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9774_9774"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>were left out for testing the modelThis is called Out-of-bag tests</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:endIndex>9881</ns3:endIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_12709_12709">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>the results of this study clearly reflect the changes in Japanese society and the changes in the music industry</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:endIndex>12709</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns3:beginIndex>12709</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_27679_27679">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:beginIndex>27679</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_27965_27965"/>
+    <rdfs:label>This was also seen in the lyrics of singer-songwriters during the 1980s, including Nakajima, Takeuchi, and Matsutoya</rdfs:label>
+    <ns3:endIndex>27679</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_28479_28479">
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns3:beginIndex>28479</ns3:beginIndex>
+    <ns3:endIndex>28479</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>case study</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_16939_16939">
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:endIndex>16939</ns3:endIndex>
+    <rdfs:label>In particular, the analysis for Kohmi Hirose, Yumi Matsutoya, and Maki Ohguro, for whom the classification experiment performance was poor, was supplemented by a mainly qualitative study of their lyrics</rdfs:label>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:beginIndex>16939</ns3:beginIndex>
+    <ns2:employs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_17101_17101"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_21118_21118">
+    <rdfs:label>this lyrical characteristic of her songs led to high error rates shown in Table 2 as well as Kohmi Hirose</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>21118</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>21118</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15848_15848">
+    <ns3:endIndex>15848</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdfs:label>Therefore, era classification was conducted according to the debut year of the singer rather than by decade</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:beginIndex>15848</ns3:beginIndex>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_16217_16217"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15516_15516"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_17844_17844">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>17844</ns3:endIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdfs:label>Contrary to function words, content words were known to serve as noises for better classification between authors</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_17989_17989"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_18245_18245"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>17844</ns3:beginIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_11580_11580">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdfs:label>the debut age has fallen in recent years</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_11286_11286"/>
+    <ns3:endIndex>11580</ns3:endIndex>
+    <ns3:beginIndex>11580</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_13748_13748">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>PCA</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>13748</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <ns3:endIndex>13748</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Topic-text_analysis">
+    <ns1:isTopicKeywordOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Topic"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Type"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5309_5309">
+    <rdfs:label>selected the features and methods appropriate for our purposes</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:hasObjective rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_5372_5372"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns3:endIndex>5309</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:beginIndex>5309</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_22312_22312">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdfs:label>her lyrics contain Japanese expression of the new generation</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:endIndex>22312</ns3:endIndex>
+    <ns3:beginIndex>22312</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7616_7616">
+    <ns3:beginIndex>7616</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:employs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7624_7624"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdfs:label>applied random forests machine learning methods</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:endIndex>7616</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns2:hasObjective rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7673_7673"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Topic-Japanese_studies">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Type"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Topic"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns1:isTopicKeywordOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_19174_19174">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>19174</ns3:endIndex>
+    <rdfs:label>this lyrical characteristic of her songs led to low error rates shown in Table 2</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:beginIndex>19174</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-ugaya2005">
+    <ns2:bibliographicTitle>Jpopu towa Nani ka: Kyodaika-suru Ongaku Sangyo.</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:bibliographicAuthor>Ugaya Hiromichi.</ns2:bibliographicAuthor>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5971_5971">
+    <ns2:employs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_5979_5979"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6088_6088"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5764_5764"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdfs:label>applied morphological analysis by MeCab (http://mecab.sourceforge.net), a Japanese morphological analysis system</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>5971</ns3:beginIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns3:endIndex>5971</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_8743_8743">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:endIndex>8743</ns3:endIndex>
+    <ns3:beginIndex>8743</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdfs:label>ensemble learning</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6581_6581">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>used content words as well as function words because of the aforementioned reason (a) the number of tokens is considerably small and (c) the content as well as the style can affect the textual characteristics</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns3:beginIndex>6581</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6341_6341"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:endIndex>6581</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Topic-statistical_methods">
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isTopicKeywordOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Type"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Topic"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7915_7915">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_8162_8162"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:hasObjective rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7958_7958"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>7915</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdfs:label>analyzed the results of the classification</rdfs:label>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:beginIndex>7915</ns3:beginIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_5372_5372">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>5372</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns2:isObjectiveOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5309_5309"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:endIndex>5372</ns3:endIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdfs:label>to obtain an important case study for computational stylistics</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Goal"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_5979_5979">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>morphological analysis</rdfs:label>
+    <ns2:isEmployedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5971_5971"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:endIndex>5979</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:beginIndex>5979</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_19389_19389">
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>19389</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:beginIndex>19389</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdfs:label>either Maki Ohguro is an artist with few characteristic words or she is an artist with an extensive vocabulary who does not use similar expressions</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_9331_9331">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>9331</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Goal"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns2:isObjectiveOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9354_9354"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:endIndex>9331</ns3:endIndex>
+    <rdfs:label>To split the nodes</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_27598_27598">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>27598</ns3:beginIndex>
+    <ns3:endIndex>27598</ns3:endIndex>
+    <rdfs:label>some singers, such as Utada and YUI, prefer using English words in their lyrics</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6341_6341">
+    <ns3:endIndex>6341</ns3:endIndex>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_6446_6446"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:beginIndex>6341</ns3:beginIndex>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6581_6581"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdfs:label>selected bag-of-words as features due to reason (d), as mentioned in the Introduction</rdfs:label>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5556_5556">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdfs:label>selected 116 songs composed by 10 singer-songwriters (those who wrote more than 90% of their songs) that appeared on the Oricon annual top 100 single hit chart ; more than five times in the past 30 years</rdfs:label>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_5764_5764"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:beginIndex>5556</ns3:beginIndex>
+    <ns3:endIndex>5556</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10531_10531">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:endIndex>10531</ns3:endIndex>
+    <ns3:beginIndex>10531</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdfs:label>calculated the average of this number over all trees in the forest</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10335_10335"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10603_10603"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6148_6148">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:beginIndex>6148</ns3:beginIndex>
+    <rdfs:label>constructed a text-feature matrix</rdfs:label>
+    <ns3:endIndex>6148</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6088_6088"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_17603_17603">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>17603</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:endIndex>17603</ns3:endIndex>
+    <rdfs:label>they show her special lyrical characteristic</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-confidence1970">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:bibliographicAuthor></ns2:bibliographicAuthor>
+    <ns2:bibliographicTitle>Confidence Annual Report 1970-1979</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_28434_28434">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>PCA</rdfs:label>
+    <ns3:beginIndex>28434</ns3:beginIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <ns3:endIndex>28434</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10679_10679">
+    <ns3:beginIndex>10679</ns3:beginIndex>
+    <rdfs:label>divided the raw score by the standard error of the variable in the calculation over all trees, and that number</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>10679</ns3:endIndex>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10790_10790"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_10603_10603"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7673_7673">
+    <ns3:beginIndex>7673</ns3:beginIndex>
+    <ns3:endIndex>7673</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Goal"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:isObjectiveOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7616_7616"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdfs:label>to perform the classification experiments for the 10 selected singers</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_752_752">
+    <ns3:endIndex>752</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns2:resultsIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_939_939"/>
+    <rdfs:label>applied new methods of computational stylistics to the lyrics of the songs</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>752</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-oricon1980">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:bibliographicTitle>Oricon Annual Report (Oricon Year Book) 1980-2009</ns2:bibliographicTitle>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:bibliographicAuthor></ns2:bibliographicAuthor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_14392_14392">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:beginIndex>14392</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>random forests</rdfs:label>
+    <ns3:endIndex>14392</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15516_15516">
+    <ns3:endIndex>15516</ns3:endIndex>
+    <ns3:beginIndex>15516</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdfs:label>conducted a classification experiment using the lyrics of the three singer-songwriters who made their debut in the 1970s and the lyrics of the seven singer-songwriters who have made their debut since the 1990s</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15848_15848"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_1993_1993">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:beginIndex>1993</ns3:beginIndex>
+    <ns3:endIndex>1993</ns3:endIndex>
+    <rdfs:label>a song can be attributed to an artist because certain lyrics are applied to a certain chord progression, but if these are then separated, there will be cases when it is impossible to speculate whose song it is</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_939_939">
+    <ns3:beginIndex>939</ns3:beginIndex>
+    <ns3:endIndex>939</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_752_752"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdfs:label>the visualization of the lyrics is a typical characteristic of current singer-songwriters</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_20211_20211">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:beginIndex>20211</ns3:beginIndex>
+    <ns3:endIndex>20211</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>these expressions make her songs moderate and accessible, and can represent her special lyrical characteristics</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_13951_13951">
+    <rdfs:label>qualitative analysis</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>13951</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <ns3:endIndex>13951</ns3:endIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9774_9774">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:endIndex>9774</ns3:endIndex>
+    <rdfs:label>Two-thirds of the extracted bootstrap samples were used for constructing the model and the other one-third</rdfs:label>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9881_9881"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9612_9612"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns3:beginIndex>9774</ns3:beginIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_13250_13250">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>Hirose generally prefers short songs, and YUI and Utada have large variances in the length of their songs</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>13250</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:endIndex>13250</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/nemo/instances/Method-DBpedia-Random_forest">
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_9981_9981"/>
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7624_7624"/>
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_14392_14392"/>
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_15240_15240"/>
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_8310_8310"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-suzuki2009">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:bibliographicAuthor>Suzuki Takafumi.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns2:bibliographicTitle>Extracting speaker-specific functional expressions from political speeches using random forests in order to investigate speakers' political styles.</ns2:bibliographicTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-kikuchi2008">
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:bibliographicAuthor>Kikuchi Kiyomaro, Nihon Ryuko-ka Hensen Shi:</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <ns2:bibliographicTitle>Kayo Kyoku no Tanjo kara J-Pop no Jidai e.</ns2:bibliographicTitle>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_7958_7958">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>to find the singers who had special individual lyrical characteristics (high classification performance) and those who had common lyrical characteristics (low classification performance)</rdfs:label>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isGoalOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Goal"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>7958</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns2:isObjectiveOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7915_7915"/>
+    <ns3:beginIndex>7958</ns3:beginIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-breiman1996">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:bibliographicAuthor>Breiman, Leo.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <ns2:bibliographicTitle>Bagging predictors.</ns2:bibliographicTitle>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7160_7160">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdfs:label>selected the Gaussian kernel and parameter sigma = 0.1, which gave the best possible results for interpretation after attempting several kernels and parameters</rdfs:label>
+    <ns3:endIndex>7160</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:beginIndex>7160</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_1064_1064">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdfs:label>case study</rdfs:label>
+    <ns3:beginIndex>1064</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>1064</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_15744_15744">
+    <ns3:beginIndex>15744</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:endIndex>15744</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdfs:label>kernel PCA</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_8310_8310">
+    <ns3:endIndex>8310</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:beginIndex>8310</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdfs:label>Random forests</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7345_7345">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:endIndex>7345</ns3:endIndex>
+    <ns3:beginIndex>7345</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>principal component analysis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_19571_19571">
+    <rdfs:label>the word kako (past) is included only in Oguro's important words</rdfs:label>
+    <ns3:beginIndex>19571</ns3:beginIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:endIndex>19571</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_14430_14430">
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:endIndex>14430</ns3:endIndex>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>14430</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>the songs by aiko, Nakajima, and Utada have high classification performance, whereas those by Hirose, Oguro, and Matsutoya have low classification performance</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_15278_15278">
+    <rdfs:label>the top 20 important features include many pronouns, final particles, and auxiliary verbs</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:endIndex>15278</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:beginIndex>15278</ns3:beginIndex>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_9354_9354">
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <rdfs:label>used the Gini index formalized as follows</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns2:hasObjective rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Goal#offset_9331_9331"/>
+    <ns3:endIndex>9354</ns3:endIndex>
+    <ns3:beginIndex>9354</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_7377_7377">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>correspondent analysis</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns3:beginIndex>7377</ns3:beginIndex>
+    <ns3:endIndex>7377</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-argamon2007">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:bibliographicTitle>Stylistic text classification using functional lexical features.</ns2:bibliographicTitle>
+    <ns2:bibliographicAuthor>Argamon Shlomo, Whitelaw Casey, Chase Paul, Raj Hota Sobhan, Garg Navendu.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_28663_28663">
+    <rdfs:label>although love is a common theme in the lyrics of female singer-songwriters, the manner of expressing love varies significantly depending on the era and the individual singer</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns3:endIndex>28663</ns3:endIndex>
+    <ns3:beginIndex>28663</ns3:beginIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-mita1975">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <ns2:bibliographicTitle>Kindai Nihon no Shinjo no Rekishi: Ryukoka no Syakaishinri-shi.</ns2:bibliographicTitle>
+    <ns2:bibliographicAuthor>Mita Munesuke.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-jin2007b">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:bibliographicAuthor>Jin Mingzhe, Murakami Masakatsu</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:bibliographicTitle>Authorship identification using random forests.</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Topic-female_singer-songwriters">
+    <ns1:isTopicKeywordOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Topic"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Type"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-bishop2006">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns2:bibliographicAuthor>Bishop Christopher M.</ns2:bibliographicAuthor>
+    <ns2:bibliographicTitle>Pattern Recognition and Machine Learning.</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Topic-_computational_stylistics_">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Type"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Topic"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isTopicKeywordOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-breiman2001">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:bibliographicAuthor>Breiman, Leo.</ns2:bibliographicAuthor>
+    <ns2:bibliographicTitle>Random forests</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_17101_17101">
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns2:isEmployedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_16939_16939"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <ns3:beginIndex>17101</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <rdfs:label>mainly qualitative study</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:endIndex>17101</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_25195_25195">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>25195</ns3:beginIndex>
+    <rdfs:label>this change in the conditions for communication among such people corresponds to the change in the lyrics of singer-songwriters</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:endIndex>25195</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Figure-2">
+    <ns2:hasType rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <ns2:hasURL>http://www.digitalhumanities.org/dhq/vol/8/1/000170/resources/images/figure02.png</ns2:hasURL>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdfs:label>8_1_000170-Figure-2</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns2:hasFormat rdf:resource="http://dcu.gr/ontologies/so/instances/image/png"/>
+    <ns2:description>Three-dimensional scatter plots of the first three principal components by kernel PCA (2). The labels represent the years of release.</ns2:description>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Figure"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_9981_9981">
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Method"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:beginIndex>9981</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#EntityMention"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns3:endIndex>9981</ns3:endIndex>
+    <rdfs:label>random forests</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Organization-Toyo_University">
+    <ns1:isAffiliationOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns1:isAffiliationOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_10004_10004">
+    <ns3:beginIndex>10004</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:endIndex>10004</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdfs:label>it returns variable importance (VIacu ) for the classification experiments</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/Topic-lyrics">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Type"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Topic"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns1:isInterestOf rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isTopicKeywordOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_8162_8162">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <ns3:beginIndex>8162</ns3:beginIndex>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdfs:label>extracted the important features for classification in order to find the special distinguishing lyrical characteristic of every singer-songwriter</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:follows rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_7915_7915"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns3:endIndex>8162</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_6446_6446">
+    <rdfs:label>our purpose is to obtain linguistically and sociologically meaningful findings instead of enhancing the classification performance</rdfs:label>
+    <ns3:endIndex>6446</ns3:endIndex>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:beginIndex>6446</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_6341_6341"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_16217_16217">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:endIndex>16217</ns3:endIndex>
+    <ns3:beginIndex>16217</ns3:beginIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdfs:label>a number of trends can be identified in Table 5 because there are many songs from the new era, but a moderate classification was obtained from the confusion matrix results</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_15848_15848"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_11414_11414">
+    <rdfs:label>the debut age ranged from the late teens to early 20s</rdfs:label>
+    <ns3:beginIndex>11414</ns3:beginIndex>
+    <ns3:endIndex>11414</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_11286_11286"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_27965_27965">
+    <ns3:beginIndex>27965</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdfs:label>this is a secondary point of discussion regarding the lyrics of current female singer-songwriters YUI’s CHE.R.RY is an exception that uses the visual effects of the lyrics even in English..</rdfs:label>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns3:endIndex>27965</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns2:isResultOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_27679_27679"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-stamatatos2009">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:bibliographicTitle>A survey of modern authorship attribution methods.</ns2:bibliographicTitle>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:bibliographicAuthor>Stamatatos Efstathios.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-suzuki2012">
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:bibliographicTitle>Stylistic analysis of text submission to Japanese Q&amp;A communities.</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:bibliographicAuthor>Suzuki Takafumi, Kawamura Shuntaro, Aizawa Akiko.</ns2:bibliographicAuthor>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_27291_27291">
+    <ns3:beginIndex>27291</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <rdfs:label>their lyrics will be sung</rdfs:label>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>27291</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List">
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-ugaya2005"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-bishop2006"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-stamatatos2009"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-ito2001"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-mita1975"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-hosoya2010"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-confidence1970"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-breiman1996"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-jin2007a"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-suzuki2012"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-oricon1980"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-potthast2010"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-suzuki2009"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-kikuchi2008"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-breiman2001"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-argamon2007"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-jin2007b"/>
+    <ns2:aggregates rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-breimannd"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-potthast2010">
+    <ns2:bibliographicTitle>An evaluation framework for plagiarism detection.</ns2:bibliographicTitle>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <ns2:bibliographicAuthor>Potthast Martin, et al.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28179_28179">
+    <ns3:beginIndex>28179</ns3:beginIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-ORCID-0000-0002-3425-8208"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Activity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <rdfs:label>analyzed popular Japanese songs composed by Japanese female singer-songwriters over the past 30 years, by using methods of computational stylistics</rdfs:label>
+    <ns1:hasParticipant rdf:resource="http://dcu.gr/ontologies/so/instances/Person-mihosoya@jcom.home.ne.jp"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <ns3:endIndex>28179</ns3:endIndex>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Event"/>
+    <ns2:isFollowedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Activity#offset_28528_28528"/>
+    <ns1:isDocumentedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-hosoya2010">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <ns2:bibliographicAuthor>Hosoya Mai.</ns2:bibliographicAuthor>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:bibliographicTitle>Analyses of female singer-songwriters.</ns2:bibliographicTitle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Proposition#offset_15396_15396">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <ns3:endIndex>15396</ns3:endIndex>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/SO_Entity"/>
+    <ns3:referenceContext>http://www.digitalhumanities.org/dhq/vol/8/1/000170/000170.xml</ns3:referenceContext>
+    <ns3:beginIndex>15396</ns3:beginIndex>
+    <rdfs:label>these words are particularly important for discriminating the songs by 10 Japanese female singer-songwriters</rdfs:label>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Proposition"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Assertion"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#String"/>
+    <rdf:type rdf:resource="http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#OffsetBasedString"/>
+    <ns1:isMentionedIn rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-BiblRef-breimannd">
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/NeMO_Entity"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/BibliographicRecord"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/InformationResource"/>
+    <ns2:bibliographicAuthor>Breiman Leo, Cutler Adele.</ns2:bibliographicAuthor>
+    <ns2:isMemberOf rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170-Aggregation-Bibliografic_Reference_List"/>
+    <ns2:isContainedBy rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-DHQ-8_1_000170"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ConceptualObject"/>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/Object"/>
+    <ns2:bibliographicTitle>Random forests.</ns2:bibliographicTitle>
+    <rdf:type rdf:resource="http://dcu.gr/ontologies/so/ContentItem"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dcu.gr/ontologies/nemo/instances/Method-DBpedia-Kernel_principal_component_analysis">
+    <ns4:sameAs rdf:resource="http://dcu.gr/ontologies/so/instances/ContentItem-8_1_000170/Method#offset_15744_15744"/>
+  </rdf:Description>
+</rdf:RDF>
